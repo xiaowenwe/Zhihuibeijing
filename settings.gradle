@@ -1,0 +1,1 @@
+include ':adapter_dimen', ':adapter_java', ':SlidingMen-left', ':menu_library'
